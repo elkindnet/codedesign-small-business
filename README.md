@@ -28,11 +28,11 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code|Design](http://codedesign.elkind.net/themes/basicelement/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/themes/basicelement/).
 
 ## Creator
 
-Code|Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
+Code/Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
 
 * https://github.com/jenyelkind
 * https://elkind.net
