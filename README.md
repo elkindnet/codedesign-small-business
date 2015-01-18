@@ -23,8 +23,8 @@ Easy to edit custom PNG map marker
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
-* [Download](http://codedesign.elkind.net/themes/basicelement/) the latest release on Code|Design
-* Fork this repository on GitHub
+* [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip) the latest release on Code|Design
+* [Fork](https://github.com/elkindnet/codedesign-basic-element/fork) this repository on GitHub
 
 ## Bugs and Issues
 
