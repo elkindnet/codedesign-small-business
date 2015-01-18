@@ -1,7 +1,7 @@
-# [Code|Design](http://http://codedesign.elkind.net/) - [Basic  Element one page website theme](http://codedesign.elkind.net/themes/basicelement/)
+# [Code/Design](http://http://codedesign.elkind.net/) - [Basic  Element one page website theme](http://codedesign.elkind.net/themes/basicelement/)
 
 
-[Basic Element one page website theme](http://codedesign.elkind.net/themes/basicelement/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code|Design](http://http://codedesign.elkind.net/).
+[Basic Element one page website theme](http://codedesign.elkind.net/themes/basicelement/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-element/gh-pages/screenshot.jpg">
 ###[Live Demo](http://codedesign.elkind.net/themes/basicelement/)
