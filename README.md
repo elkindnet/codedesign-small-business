@@ -26,9 +26,11 @@ To use this template, choose one of the following options to get started:
 * [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip) the latest release on Github
 * [Fork](https://github.com/elkindnet/codedesign-basic-element/fork) this repository on GitHub
 
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/themes/basicelement/).
+
 
 ## Creator
 
@@ -39,6 +41,7 @@ Code/Design was created by and is maintained by **Jeny Elkind**, [elkind.net](ht
 * https://www.facebook.com/jenyelkind
 
 Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
 
 ## Copyright and License
 
