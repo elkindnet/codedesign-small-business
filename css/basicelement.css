@@ -359,8 +359,7 @@ ul.banner-social-buttons li {
 
 @media(max-width:767px) {
     ul.banner-social-buttons li {
-        display: block;
-        padding: 0;
+        padding: 0 5px;
     }
 
     ul.banner-social-buttons li:last-child {
