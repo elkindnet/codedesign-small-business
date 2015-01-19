@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
+ * Code Design - Basic Element Bootstrap Theme (http://codedesign.elkind.net/)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
