@@ -73,6 +73,7 @@ a:focus {
     font-weight: 700;
     font-size: 24px;
     line-height: 24px;
+    padding-top: 20px;
 }
 
 .navbar-custom .navbar-brand:focus {
