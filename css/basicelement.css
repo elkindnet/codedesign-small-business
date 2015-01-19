@@ -70,9 +70,9 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand {
-font-weight: 700;
-font-size: 24px;
-line-height: 24px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
 }
 
 .navbar-custom .navbar-brand:focus {
@@ -165,27 +165,27 @@ line-height: 24px;
 
     .intro .intro-body .brand-heading {
         font-size: 60px;
-		transform: rotate(-2deg);
-		-ms-transform: rotate(-2deg);
-		-moz-transform: rotate(-2deg);
-		-webkit-transform: rotate(-2deg);
-		-o-transform: rotate(-2deg);
+        transform: rotate(-2deg);
+        -ms-transform: rotate(-2deg);
+        -moz-transform: rotate(-2deg);
+        -webkit-transform: rotate(-2deg);
+        -o-transform: rotate(-2deg);
     }
 
     .intro .intro-body .intro-text {
         font-size: 25px;
-		transform: rotate(-2deg);
-		-ms-transform: rotate(-2deg);
-		-moz-transform: rotate(-2deg);
-		-webkit-transform: rotate(-2deg);
-		-o-transform: rotate(-2deg);
+        transform: rotate(-2deg);
+        -ms-transform: rotate(-2deg);
+        -moz-transform: rotate(-2deg);
+        -webkit-transform: rotate(-2deg);
+        -o-transform: rotate(-2deg);
     }
 }
 
 .btn-down {
     font-size: 80px;
     color: #fff;
-	opacity:0.8;
+    opacity:0.8;
 }
 
 .btn-down:hover,
@@ -214,44 +214,44 @@ line-height: 24px;
 
 
 
-@-webkit-keyframes pulse {    
-    0 {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
-
-    50% {
-        -webkit-transform: scale(1.2);
-        transform: scale(1.2);
-    }
-
-    100% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
+@-webkit-keyframes pulse {
+0 {
+    -webkit-transform: scale(1);
+    transform: scale(1);
 }
 
-@-moz-keyframes pulse {    
-    0 {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
+50% {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
 
-    50% {
-        -moz-transform: scale(1.2);
-        transform: scale(1.2);
-    }
+100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
 
-    100% {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
+@-moz-keyframes pulse {
+0 {
+    -moz-transform: scale(1);
+    transform: scale(1);
+}
+
+50% {
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+100% {
+    -moz-transform: scale(1);
+    transform: scale(1);
+}
 }
 
 
 #about.content-section  {
     padding: 0;
-	background:#37474F;
+    background:#37474F;
 }
 
 .content-section .about  {
@@ -264,15 +264,15 @@ line-height: 24px;
 }
 
 .col-gray {
-	background:#263238;	
+    background:#263238;
 }
 
 .col-gray, .col-gray2 {
-	padding:40px 40px 15px;
+    padding:40px 40px 15px;
 }
 
 .col-gray h3, .col-gray2 h3{
-padding-right: 45px;
+    padding-right: 45px;
 }
 
 #download {
@@ -291,7 +291,7 @@ padding-right: 45px;
 }
 
 #download .overlay {
-background-color: rgba(38, 50, 56, 0.6);
+    background-color: rgba(38, 50, 56, 0.6);
 }
 
 #download.content-section  {
@@ -305,7 +305,7 @@ background-color: rgba(38, 50, 56, 0.6);
 
 @media(min-width:767px) {
     .content-section {
-     padding: 150px;
+        padding: 150px 0;
     }
 
     .download-section {
@@ -330,8 +330,8 @@ background-color: rgba(38, 50, 56, 0.6);
     border: 0;
     color: #fff;
     background-color:#37474F;
-	border-radius:2px;
-	padding:12px 20px;
+    border-radius:2px;
+    padding:12px 20px;
 }
 
 .btn-default:hover,
