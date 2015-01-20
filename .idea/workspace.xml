@@ -102,11 +102,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34189945" vertical-offset="0" max-vertical-offset="895">
+            <state vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="527">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.86507934" vertical-offset="87" max-vertical-offset="969">
+              <caret line="47" column="144" selection-start-line="47" selection-start-column="144" selection-end-line="47" selection-end-column="144" />
               <folding />
             </state>
           </provider>
@@ -124,13 +134,13 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/js/small-business.js" />
         <option value="$PROJECT_DIR$/js/small-business.min.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/page.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/small-business.css" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -441,18 +451,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21201815" vertical-offset="0" max-vertical-offset="935">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="527">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34189945" vertical-offset="0" max-vertical-offset="895">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.86507934" vertical-offset="87" max-vertical-offset="969">
+          <caret line="47" column="144" selection-start-line="47" selection-start-column="144" selection-end-line="47" selection-end-column="144" />
           <folding />
         </state>
       </provider>

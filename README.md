@@ -1,7 +1,7 @@
-# [Code/Design](http://http://codedesign.elkind.net/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://codedesign.elkind.net/themes/basicelement/)
+# [Code/Design](http://http://codedesign.elkind.net/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/)
 
 
-[Small Business one page website theme](http://codedesign.elkind.net/themes/basicelement/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
+[Small Business one page website theme](http://codedesign.elkind.net/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
 ###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip)
@@ -29,7 +29,7 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/themes/basicelement/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/).
 
 
 ## Creator
@@ -45,4 +45,4 @@ Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework crea
 
 ## Copyright and License
 
-Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/codedesign-basic-element/blob/gh-pages/LICENSE) license.
+Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/codedesign-small-business/blob/gh-pages/LICENSE) license.
