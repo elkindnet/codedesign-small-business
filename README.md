@@ -1,4 +1,4 @@
-# [Code/Design](http://http://codedesign.elkind.net/) - [Small Business one page website theme](http://codedesign.elkind.net/themes/basicelement/)
+# [Code/Design](http://http://codedesign.elkind.net/) - [Small Business Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://codedesign.elkind.net/themes/basicelement/)
 
 
 [Small Business one page website theme](http://codedesign.elkind.net/themes/basicelement/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
