@@ -3,8 +3,8 @@
 
 [Small Business one page website theme](http://codedesign.elkind.net/themes/basicelement/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
 
-<img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-element/gh-pages/screenshot.jpg">
-###[Live Demo](http://codedesign.elkind.net/themes/basicelement/)   |   [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip)
+<img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
+###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip)
 
 ## Theme Description:
 
