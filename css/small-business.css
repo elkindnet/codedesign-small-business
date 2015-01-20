@@ -183,6 +183,7 @@ hr.small {
 }
 .intro-header a {
 color: #fff;
+border-bottom:1px solid #ccc;
 }
 
 @media only screen and (min-width: 768px) {
