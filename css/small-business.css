@@ -185,6 +185,9 @@ hr.small {
 color: #fff;
 border-bottom:1px solid #ccc;
 }
+.intro-header a:hover {
+text-decoration: none;
+}
 
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
