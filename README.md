@@ -4,32 +4,27 @@
 [Small Business one page website theme](http://codedesign.elkind.net/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
-###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip)
+###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip)
 
 ## Theme Description:
 
-Small Business is a free HTML (Bootstrap3), multipurpose, one page website theme featuring a dark layout along with smooth scrolling page animations.
+A clean, Bootstrap Small Business theme ready to hook into your favorite CMS, blogging platform or static web site.
 
 ## Theme Features:
 
-Fixed top navigation that collapses on scroll
-Smooth scrolling animations
-Scrollspy that highlights active page sections
-Custom outline button style
-Google Maps API integration with a custom Google Maps skin by Snazzy Maps
-Easy to edit custom PNG map marker
+Small Business is a carefully styled Bootstrap theme that is perfect for small business site, personal or company blogs. This theme features four HTML pages including a index, an about page, a sample and a contact page.
 
 
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
-* [Download](https://github.com/elkindnet/codedesign-basic-element/archive/gh-pages.zip) the latest release on Github
-* [Fork](https://github.com/elkindnet/codedesign-basic-element/fork) this repository on GitHub
+* [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip) the latest release on Github
+* [Fork](https://github.com/elkindnet/codedesign-small-business/fork) this repository on GitHub
 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-basic-element/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-small-business/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/).
 
 
 ## Creator
