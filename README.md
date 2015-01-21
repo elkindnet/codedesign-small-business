@@ -1,7 +1,7 @@
 # [Code/Design](http://http://codedesign.elkind.net/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/)
 
 
-[Small Business one page website theme](http://codedesign.elkind.net/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
+[Small Business one page website theme](http://codedesign.elkind.net/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
 ###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip)
@@ -35,7 +35,7 @@ Code/Design was created by and is maintained by **Jeny Elkind**, [elkind.net](ht
 * https://elkind.net
 * https://www.facebook.com/jenyelkind
 
-Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Code/Design is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 
 ## Copyright and License
