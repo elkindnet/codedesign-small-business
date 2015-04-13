@@ -1,6 +1,6 @@
 /*!
- * Small Business v1.0.0 (http://codedesign.elkind.net)
- * Copyright 2014 Code/Design
+ * Small Business v1.0.0 (http://forbetterweb.com)
+ * Copyright 2014 ForBetterWeb
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 

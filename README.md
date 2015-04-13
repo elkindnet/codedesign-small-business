@@ -1,7 +1,7 @@
-# [Code/Design](http://http://codedesign.elkind.net/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/)
+# [ForBetterWeb](http://http://forbetterweb.com/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://forbetterweb.com/blog/small-business-html-bootstrap/)
 
 
-[Small Business one page website theme](http://codedesign.elkind.net/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
+[Small Business one page website theme](http://forbetterweb.com/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [ForBetterWeb](http://forbetterweb.com/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
 ###[Live Demo](http://elkindnet.github.io/codedesign-small-business/)   |   [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip)
@@ -24,18 +24,18 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-small-business/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-small-business/issues) here on GitHub or leave a comment on the [template overview page at ForBetterWeb](http://forbetterweb.com/blog/small-business-html-bootstrap/).
 
 
 ## Creator
 
-Code/Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
+ForBetterWeb was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
 
 * https://github.com/jenyelkind
 * https://elkind.net
 * https://www.facebook.com/jenyelkind
 
-Code/Design is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+ForBetterWeb is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 
 ## Copyright and License
