@@ -1,4 +1,4 @@
-# [ForBetterWeb](http://http://forbetterweb.com/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://forbetterweb.com/blog/small-business-html-bootstrap/)
+# [ForBetterWeb](http://forbetterweb.com/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://forbetterweb.com/blog/small-business-html-bootstrap/)
 
 
 [Small Business one page website theme](http://forbetterweb.com/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [ForBetterWeb](http://forbetterweb.com/).
@@ -26,7 +26,6 @@ To use this template, choose one of the following options to get started:
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-small-business/issues) here on GitHub or leave a comment on the [template overview page at ForBetterWeb](http://forbetterweb.com/blog/small-business-html-bootstrap/).
 
-
 ## Creator
 
 ForBetterWeb was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
@@ -36,7 +35,6 @@ ForBetterWeb was created by and is maintained by **Jeny Elkind**, [elkind.net](h
 * https://www.facebook.com/jenyelkind
 
 ForBetterWeb is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
 
 ## Copyright and License
 
