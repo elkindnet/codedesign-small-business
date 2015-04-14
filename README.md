@@ -13,13 +13,11 @@ A clean, Bootstrap Small Business theme ready to hook into your favorite CMS, bl
 
 Small Business is a carefully styled Bootstrap theme that is perfect for small business site, personal or company blogs. This theme features four HTML pages including a index, an about page, a sample and a contact page.
 
-
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
 * [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip) the latest release on Github
 * [Fork](https://github.com/elkindnet/codedesign-small-business/fork) this repository on GitHub
-
 
 ## Bugs and Issues
 
