@@ -1,6 +1,5 @@
 # [ForBetterWeb](http://forbetterweb.com/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://forbetterweb.com/blog/small-business-html-bootstrap/)
 
-
 [Small Business one page website theme](http://forbetterweb.com/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [ForBetterWeb](http://forbetterweb.com/).
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
